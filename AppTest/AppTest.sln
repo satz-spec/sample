@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTest", "AppTest.csproj", "{0EB463A2-2A84-46B8-8E26-59DFC4A2B0A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppTest", "AppTest.csproj", "{0EB463A2-2A84-46B8-8E26-59DFC4A2B0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apptest2", "..\Apptest2\Apptest2.csproj", "{75F8F796-0490-455E-AE79-C069BE84C82D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0EB463A2-2A84-46B8-8E26-59DFC4A2B0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB463A2-2A84-46B8-8E26-59DFC4A2B0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB463A2-2A84-46B8-8E26-59DFC4A2B0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F8F796-0490-455E-AE79-C069BE84C82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F8F796-0490-455E-AE79-C069BE84C82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F8F796-0490-455E-AE79-C069BE84C82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F8F796-0490-455E-AE79-C069BE84C82D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
